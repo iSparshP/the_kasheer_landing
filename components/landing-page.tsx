@@ -39,7 +39,7 @@ export function LandingPageComponent() {
           The Kasheer
         </h1>
         <div className="mb-8 flex space-x-8 text-3xl animate-fade-in-up animation-delay-300">
-          <span className="font-['Noto_Sans_Devanagari'] bg-shadow">कश्मीर</span>
+          <span className="font-['Noto_Sans_Devanagari'] bg-shadow">कशीर</span>
           <span className="font-['Noto_Nastaliq_Urdu'] bg-shadow">کٔشِیر</span>
           <span className="font-['Noto_Nastaliq_Urdu'] bg-shadow">کشمیر</span>
         </div>
